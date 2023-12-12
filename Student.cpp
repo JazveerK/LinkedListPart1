@@ -2,7 +2,7 @@
 #include <cstring>
 #include <cctype>
 
-//Used for testing, largely based off of Student List
+
 void Student::setID(int newID) {
   idNum = newID;
 }
