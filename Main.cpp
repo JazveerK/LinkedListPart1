@@ -11,9 +11,10 @@
 
 using namespace std;
 
-Node* head = NULL;
-
 int main() {
+
+    Node* head = NULL;
+ 
     //Initialize two students
     Student* studentOne = new Student();
     Student* studentTwo = new Student();
